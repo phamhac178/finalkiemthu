@@ -1,0 +1,1 @@
+<?php ('location: src/index.js')

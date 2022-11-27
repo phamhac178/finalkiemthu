@@ -1,0 +1,1 @@
+<?php require('location: src/index.js')
